@@ -1,7 +1,8 @@
 /* This is the navigation bar */
 .navbar {
-  background-color: pink
+  overflow:visible;
+  background-color: pink;
   position: fixed;
-  top: 5
-  width: 80%
+  top: 5;
+  width: 80%;
 }
