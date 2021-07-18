@@ -1,4 +1,9 @@
 /* Universal Styling */
+.navbar {
+  position: fixed;
+  top: 5;
+  width: 100%;
+}
 
 body {
   background-image: url('../images/watercolor.jpeg');
