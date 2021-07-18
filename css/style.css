@@ -1,0 +1,7 @@
+/* This is the navigation bar */
+.navbar {
+  background-color: pink
+  position: fixed;
+  top: 5
+  width: 80%
+}
