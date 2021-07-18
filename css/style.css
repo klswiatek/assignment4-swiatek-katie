@@ -9,6 +9,11 @@
   font-family: 'Open Sans';
 }
 
+.navbar a:hover {
+  background: #d7f7f3;
+  color: #8f5474;
+}
+
 body {
   background-image: url('../images/watercolor.jpeg');
   background-repeat: no-repeat;
